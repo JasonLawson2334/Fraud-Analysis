@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="420">
+<rect width="100%" height="100%" fill="white"/>
+<text x="450.0" y="28" text-anchor="middle" font-size="18" font-family="Arial">Top Preparer Risk Scores (Heuristic)</text>
+<line x1="80" y1="50" x2="80" y2="360" stroke="#333"/>
+<line x1="80" y1="360" x2="870" y2="360" stroke="#333"/>
+<line x1="80" y1="360.0" x2="870" y2="360.0" stroke="#e0e0e0"/>
+<text x="70" y="364.0" text-anchor="end" font-size="11" font-family="Arial">0.0</text>
+<line x1="80" y1="298.0" x2="870" y2="298.0" stroke="#e0e0e0"/>
+<text x="70" y="302.0" text-anchor="end" font-size="11" font-family="Arial">1612.2</text>
+<line x1="80" y1="236.0" x2="870" y2="236.0" stroke="#e0e0e0"/>
+<text x="70" y="240.0" text-anchor="end" font-size="11" font-family="Arial">3224.4</text>
+<line x1="80" y1="173.99999999999997" x2="870" y2="173.99999999999997" stroke="#e0e0e0"/>
+<text x="70" y="177.99999999999997" text-anchor="end" font-size="11" font-family="Arial">4836.6</text>
+<line x1="80" y1="112.0" x2="870" y2="112.0" stroke="#e0e0e0"/>
+<text x="70" y="116.0" text-anchor="end" font-size="11" font-family="Arial">6448.8</text>
+<line x1="80" y1="50.0" x2="870" y2="50.0" stroke="#e0e0e0"/>
+<text x="70" y="54.0" text-anchor="end" font-size="11" font-family="Arial">8061.0</text>
+<rect x="91.85" y="50.0" width="55.3" height="310.0" fill="#54a24b"/>
+<text x="119.5" y="380" text-anchor="middle" font-size="11" font-family="Arial">GUESTSYS</text>
+<rect x="170.85" y="298.27688872348347" width="55.3" height="61.72311127651653" fill="#54a24b"/>
+<text x="198.5" y="380" text-anchor="middle" font-size="11" font-family="Arial">POS</text>
+<rect x="249.85" y="325.92730430467685" width="55.3" height="34.07269569532315" fill="#54a24b"/>
+<text x="277.5" y="380" text-anchor="middle" font-size="11" font-family="Arial">Victoria Simpson|Accounting Manager</text>
+<rect x="328.85" y="328.15779679940454" width="55.3" height="31.842203200595463" fill="#54a24b"/>
+<text x="356.5" y="380" text-anchor="middle" font-size="11" font-family="Arial">Brian Gibson|Assistant Manager            </text>
+<rect x="407.85" y="333.0418062275152" width="55.3" height="26.958193772484776" fill="#54a24b"/>
+<text x="435.5" y="380" text-anchor="middle" font-size="11" font-family="Arial">Yvonne Chapman|Catering Manager              </text>
+<rect x="486.85" y="333.58020096762186" width="55.3" height="26.419799032378137" fill="#54a24b"/>
+<text x="514.5" y="380" text-anchor="middle" font-size="11" font-family="Arial">Carolyn Slater|Food Operations Manager       </text>
+<rect x="565.85" y="342.46371417938224" width="55.3" height="17.536285820617763" fill="#54a24b"/>
+<text x="593.5" y="380" text-anchor="middle" font-size="11" font-family="Arial">Alexander Knox|Assistant Manager            </text>
+<rect x="644.85" y="347.4630939089443" width="55.3" height="12.536906091055698" fill="#54a24b"/>
+<text x="672.5" y="380" text-anchor="middle" font-size="11" font-family="Arial">Elizabeth Rees|Food Operations Manager       </text>
+<rect x="723.85" y="352.7316710085597" width="55.3" height="7.268328991440285" fill="#54a24b"/>
+<text x="751.5" y="380" text-anchor="middle" font-size="11" font-family="Arial">Rodney Wilkins|Maintenance Supervisor</text>
+<rect x="802.85" y="354.65450936608363" width="55.3" height="5.34549063391637" fill="#54a24b"/>
+<text x="830.5" y="380" text-anchor="middle" font-size="11" font-family="Arial">Trevor Roberts|Housekeeping Supervisor       </text>
+</svg>
